@@ -1,4 +1,5 @@
 # testPres
+<<<<<<< HEAD
 R Presentation test.
 
 - testPres/testPres.Rpres -->save as Web Page
@@ -27,3 +28,6 @@ R Presentation test.
 
   git push -u origin master
 
+=======
+test r presentation.
+>>>>>>> 083a2852d98bd39a4b37d8ac166cb4505adc4e3e
